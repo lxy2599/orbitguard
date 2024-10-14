@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>edu.bupt</groupId>
-    <artifactId>OrbitGuard</artifactId>
+    <artifactId>orbitguard</artifactId>
     <version>${revision}</version>
     <name>OrbitGuard</name>
     <description>OrbitGuard</description>
@@ -29,7 +29,8 @@
     </scm>
 
     <modules>
-        <module>authentication</module>
+        <module>orbitguard-auth</module>
+        <module>orbitguard-application</module>
     </modules>
 
     <properties>

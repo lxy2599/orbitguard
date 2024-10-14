@@ -4,11 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>edu.bupt</groupId>
-        <artifactId>OrbitGuard</artifactId>
+        <artifactId>orbitguard</artifactId>
         <version>${revision}</version>
     </parent>
 
-    <artifactId>authentication</artifactId>
+    <artifactId>orbitguard-auth</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>authentication</name>
     <description>鉴权认证模块</description>
